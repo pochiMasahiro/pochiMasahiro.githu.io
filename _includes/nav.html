@@ -1,0 +1,23 @@
+<nav>
+    {% if page.layout == 'home' %}
+    <b>
+    {% endif %}
+    <a href="/">Home</a>
+    {% if page.layout == 'home' %}
+    </b>
+    {% endif %}
+    /
+    {% if page.layout == 'blog' %}
+    <b>
+    {% endif %}
+    <a href="/blog">Blog</a>
+    {% if page.layout == 'blog' %}
+    </b>
+    {% endif %}
+    {% if page.layout == 'post' %}
+    /
+    <b>
+    {{ page.title }}
+    </b>
+    {% endif %}
+</nav>
