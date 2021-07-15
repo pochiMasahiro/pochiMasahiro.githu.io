@@ -2,13 +2,13 @@
 layout: blog_default
 ---
 <article itemscope itemtype="http://schema.org/BlogPosting">
-    <p class="post-meta">
-        <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-            {{ page.date | date: date_format }}
+    <p>
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person"><i itemprop="name">{{ page.author }}</i></span>,
+        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+            {%- assign date_format = site.minima.date_format | default: "%B %-d %Y" -%}
+            <i>{{ page.date | date: date_format }}</i>
         </time>
         {%- if page.author -%}
-        <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
     {%- endif -%}</p>
 
     <div class="post-content e-content" itemprop="articleBody">
