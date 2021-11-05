@@ -1,7 +1,8 @@
 ---
-layout: blog_default
+layout: default
 ---
 <article itemscope itemtype="http://schema.org/BlogPosting">
+    <h1>{{ page.title }}</h1>
     <p>
         <span itemprop="author" itemscope itemtype="http://schema.org/Person"><i itemprop="name">{{ page.author }}</i></span>,
         <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
