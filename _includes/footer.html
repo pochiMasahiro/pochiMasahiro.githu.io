@@ -1,17 +1,8 @@
 <footer>
-    <br>
     <hr>
-    <br>
-    <ul>
-        <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
-        </li>
-            {%- if site.email -%}
-        <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
-    </ul>
+    <p>{{ site.author | escape }}, <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>. Powered by <a href="https://newcss.net/">new.css</a>.<br />
+    This site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />
+    <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+        <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
+    </a></p>
 </footer>
