@@ -4,10 +4,10 @@ layout: default
 
 {{ content }}
 
-{%- if site.posts.size > 0 -%}
+{% if site.posts.size > 0 %}
 <h2>{{ page.list_title | default: "Blog" }}</h2>
-{%- for post in site.posts -%}
-    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+{% for post in site.posts %}
+    {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
     <div>
         <p style="text-align:left;">
         {{ post.date | date: date_format }} >>
@@ -16,7 +16,7 @@ layout: default
             </a>
         </p>
     </div>
-{%- endfor -%}
+{% endfor %}
 
 <p>subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-{%- endif -%}
+{% endif %}
