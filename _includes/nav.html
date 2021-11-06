@@ -1,13 +1,9 @@
 <nav>
-    <b>
-    <a href="/">Home</a>
-    /
-    <a href="/blog">Blog</a>
-    </b>
-    {%- if page.layout == 'post' -%}
-    <b>
-        /{{ page.title }}
-    </b>
+    <a href="/">Home</a> /
+    <a href="/blog">Blog</a> / 
+    {%- if page.layout != "home" %}
+    <a href="/categories">Categories</a> /
+    <a href="/tags">Tags</a> /
+    <a href="/archives">Archives</a> /
     {%- endif -%}
-        
 </nav>
