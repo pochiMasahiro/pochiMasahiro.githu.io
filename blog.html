@@ -1,16 +1,11 @@
 ---
 layout: default
 ---
-
-{% for category in site.categories %}
-    {% capture category_name %}{{ category | first }}{% endcapture %}
-    <h4>{{ category_name }}</h4>
-    {% for post in site.categories[category_name] %}
-    <p style="text-align:left;">
-        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-        <span style="float:right;">{{ post.data | date: '%B %d, %Y' }}</span>
-    </p>
-    {% endfor %}
-
+<h2>Recent Entries</h2>
+{% for post in site.posts %}
+<p>
+<time datetime="{{ post.date | date: '%Y-%m-%dT%T%z' }}">{{ post.date | date: '%b %d, %Y' }}</time>>>
+<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+</p>
 {% endfor %}
 
