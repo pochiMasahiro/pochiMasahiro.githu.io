@@ -9,6 +9,9 @@
    id="svg6114"
    sodipodi:docname="sidnal_mode.svg"
    inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\sidnal_mode.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +26,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="2.1997092"
-     inkscape:cx="266.85346"
-     inkscape:cy="84.329329"
+     inkscape:zoom="3.1108586"
+     inkscape:cx="192.8728"
+     inkscape:cy="261.82482"
      inkscape:window-width="2560"
      inkscape:window-height="1361"
      inkscape:window-x="-9"
@@ -93,6 +96,34 @@
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
          id="path22520-2-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-1-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path22520-27-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-2-3-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path22520-2-5-4" />
     </marker>
   </defs>
   <g
@@ -195,5 +226,106 @@
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-2-3)"
        d="m 79.375,27.78125 c 0,5.291667 3.96875,5.291667 3.96875,5.291667"
        id="path22491-0-6" />
+    <path
+       style="fill:none;fill-opacity:0.51;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 37.04164,74.083333 c 0.275588,-0.3749 0.55125,-0.7497 0.826838,-1.1199 0.275589,-0.3702 0.551177,-0.7358 0.826839,-1.0923 0.275588,-0.3565 0.551177,-0.7038 0.826765,-1.0378 0.275662,-0.334 0.55125,-0.6545 0.826838,-0.9578 0.275589,-0.3033 0.55125,-0.5891 0.826839,-0.8542 0.275588,-0.265 0.551176,-0.5092 0.826838,-0.7295 0.275589,-0.2204 0.551177,-0.4168 0.826839,-0.587 0.275588,-0.1701 0.551176,-0.314 0.826765,-0.4298 0.275661,-0.1159 0.55125,-0.2036 0.826842,-0.2623 0.27558,-0.0586 0.55125,-0.0881 0.82683,-0.0881 0.27559,0 0.55118,0.0295 0.82684,0.0881 0.27559,0.0586 0.55118,0.1465 0.82684,0.2623 0.27559,0.1158 0.55118,0.2597 0.82677,0.4298 0.27566,0.1702 0.55125,0.3667 0.82684,0.587 0.27558,0.2203 0.55125,0.4645 0.82683,0.7295 0.27559,0.265 0.55118,0.551 0.82684,0.8542 0.27559,0.3032 0.55118,0.6238 0.82677,0.9578 0.27566,0.334 0.55125,0.6813 0.82684,1.0378 0.27566,0.3565 0.55125,0.7221 0.82683,1.0923 0.27559,0.3702 0.55125,-1.900833 0.82684,-1.525933 0.27559,0.3748 0.55118,3.395433 0.82684,3.765633 0.27559,0.3702 0.55118,0.7358 0.82677,1.0923 0.27566,0.3565 0.55125,0.7038 0.82683,1.0378 0.27559,0.334 0.55125,0.6546 0.82684,0.9578 0.27559,0.3033 0.55125,0.5891 0.82684,0.8542 0.27559,0.2651 0.55118,0.5092 0.82684,0.7295 0.27559,0.2204 0.55117,0.4168 0.82676,0.587 0.27566,0.1702 0.55125,0.314 0.82684,0.4298 0.27559,0.1159 0.55125,0.2036 0.82684,0.2623 0.27559,0.0586 0.55118,0.0881 0.82684,0.0881 0.27559,0 0.55117,-0.0295 0.82684,-0.0881 0.27558,-0.0586 0.55117,-0.1465 0.82676,-0.2623 0.27566,-0.1158 0.55125,-0.2597 0.82684,-0.4298 0.27559,-0.1702 0.55125,-0.3667 0.82684,-0.587 0.27559,-0.2203 0.55117,-0.4645 0.82684,-0.7295 0.27558,-0.265 0.55117,-0.551 0.82683,-0.8542 0.27559,-0.3032 0.55118,-0.6238 0.82677,-0.9578 0.27566,-0.3339 0.55125,-0.6813 0.82684,-1.0378 0.27559,-0.3565 0.55125,-0.7221 0.82684,-1.0923 0.27558,-0.3702 0.55117,-0.745 0.82683,-1.1198"
+       title="sin(x)"
+       id="path6210-3-1"
+       sodipodi:nodetypes="csccscccccssccsscccscccscsccccssccscccssc"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\noise.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 30.427056,74.083333 H 78.052053"
+       id="path6564-8-8"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\noise.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 30.427056,89.958333 H 78.052053"
+       id="path6564-7-8-5"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\noise.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;fill-opacity:0.51;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 37.041606,89.958233 c 0.275588,0.3749 0.55125,0.7497 0.826838,1.1199 0.275589,0.3702 0.551177,0.7358 0.826839,1.0923 0.275588,0.3565 0.551177,0.7038 0.826765,1.0378 0.275662,0.334 0.55125,0.6545 0.826838,0.9578 0.275589,0.3033 0.55125,0.5891 0.826839,0.8542 0.275588,0.265 0.551176,0.5092 0.826838,0.7295 0.275589,0.2204 0.551177,0.416796 0.826839,0.586996 0.275588,0.1701 0.551176,0.314 0.826765,0.4298 0.275661,0.1159 0.55125,0.2036 0.826836,0.2623 0.27559,0.0586 0.55125,0.0881 0.82684,0.0881 0.27559,0 0.55118,-0.0295 0.82684,-0.0881 0.27559,-0.0586 0.55118,-0.1465 0.82684,-0.2623 0.27559,-0.1158 0.55117,-0.2597 0.82676,-0.4298 0.27566,-0.1702 0.55125,-0.366696 0.82684,-0.586996 0.27559,-0.2203 0.55125,-0.4645 0.82684,-0.7295 0.27559,-0.265 0.55118,-0.551 0.82684,-0.8542 0.27559,-0.3032 0.55117,-0.6238 0.82676,-0.9578 0.27566,-0.334 0.55125,-0.6813 0.82684,-1.0378 0.27566,-0.3565 0.55125,-0.7221 0.82684,-1.0923 0.27559,-0.3702 0.55125,-3.390733 0.82684,-3.765633 0.27559,-0.3748 0.55118,1.896133 0.82684,1.525933 0.27559,-0.3702 0.55117,-0.7358 0.82676,-1.0923 0.27566,-0.3565 0.55125,-0.7038 0.82684,-1.0378 0.27559,-0.334 0.55125,-0.6546 0.82684,-0.9578 0.27559,-0.3033 0.55125,-0.5891 0.82684,-0.8542 0.27559,-0.2651 0.55117,-0.5092 0.82684,-0.7295 0.27558,-0.2204 0.55117,-0.4168 0.82676,-0.587 0.27566,-0.1702 0.55125,-0.314 0.82684,-0.4298 0.27558,-0.1159 0.55125,-0.2036 0.82683,-0.2623 0.27559,-0.0586 0.55118,-0.0881 0.82684,-0.0881 0.27559,0 0.55118,0.0295 0.82684,0.0881 0.27559,0.0586 0.55118,0.1465 0.82677,0.2623 0.27566,0.1158 0.55125,0.2597 0.82683,0.4298 0.27559,0.1702 0.55125,0.3667 0.82684,0.587 0.27559,0.2203 0.55118,0.4645 0.82684,0.7295 0.27559,0.265 0.55118,0.551 0.82684,0.8542 0.27559,0.3032 0.55118,0.6238 0.82677,0.9578 0.27566,0.3339 0.55125,0.6813 0.82683,1.0378 0.27559,0.3565 0.55125,0.7221 0.82684,1.0923 0.27559,0.3702 0.55118,0.745 0.82684,1.1198"
+       title="sin(x)"
+       id="path6210-6-6-5"
+       sodipodi:nodetypes="csccscccccssccsscccscccscsccccssccscccssc"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\noise.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+       x="19.418461"
+       y="82.833443"
+       id="text20438-0-4"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\noise.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan20436-0-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="19.418461"
+         y="82.833443">信号線</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-1-4)"
+       d="m 23.812473,79.374999 c 0,-5.291667 3.96875,-5.291667 3.96875,-5.291667"
+       id="path22491-6-0"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\noise.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-2-3-3)"
+       d="m 23.812473,84.666666 c 0,5.291667 3.96875,5.291667 3.96875,5.291667"
+       id="path22491-0-6-6"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\noise.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+       x="34.07576"
+       y="81.694176"
+       id="text2763"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\noise.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="34.07576"
+         y="81.694176"
+         id="tspan2765">信号線に</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="34.07576"
+         y="85.552902"
+         id="tspan7860">生じたノイズ</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m 48.947916,82.020832 c 3.96875,0 3.96875,-6.614583 3.96875,-6.614583"
+       id="path7353"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\noise.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-2-3-3)"
+       d="m 48.947916,82.020832 c 3.96875,0 3.96875,3.96875 3.96875,3.96875"
+       id="path7468"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\noise.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       id="rect8444"
+       style="fill:none;fill-opacity:0.51;stroke:#000000;stroke-width:0.194151;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 60.854167,62.177083 -2.8394,2.663044 1.07272,0.367524 -2.52636,2.210946 1.16847,0.400327 -2.35391,2.270019 5.14136,-2.154055 -0.99613,-0.341287 2.98613,-2.053423 -0.63694,-0.21822 2.73857,-1.858544 z"
+       sodipodi:nodetypes="cccccccccccc"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\noise.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
   </g>
 </svg>

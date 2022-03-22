@@ -8,7 +8,7 @@
    version="1.1"
    id="svg24141"
    inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   sodipodi:docname="inverted_follower.svg"
+   sodipodi:docname="inverted_follower_dc.svg"
    inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower.png"
    inkscape:export-xdpi="600"
    inkscape:export-ydpi="600"
@@ -27,9 +27,9 @@
      inkscape:document-units="mm"
      showgrid="true"
      showguides="true"
-     inkscape:zoom="1.5554293"
-     inkscape:cx="482.50345"
-     inkscape:cy="327.5623"
+     inkscape:zoom="2.1997092"
+     inkscape:cx="445.51343"
+     inkscape:cy="143.88265"
      inkscape:window-width="2560"
      inkscape:window-height="1361"
      inkscape:window-x="-9"
@@ -59,7 +59,7 @@
        x="101.86456"
        y="29.104156"
        ry="4.0221675e-14"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <rect
@@ -70,7 +70,7 @@
        x="33.072918"
        y="23.812496"
        ry="4.0221675e-14"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <path
@@ -90,7 +90,7 @@
        transform="matrix(0.42772024,0,0,0.34624979,-69.271491,-31.379976)"
        inkscape:transform-center-y="0.86562201"
        inkscape:transform-center-x="1.2072881e-06"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"
        d="m 230,305 -8.66025,-15 17.3205,0 z" />
@@ -100,7 +100,7 @@
        x="110.2763"
        y="27.456783"
        id="text5741"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
@@ -110,27 +110,11 @@
          y="27.456783">R<tspan
    style="font-size:65%;baseline-shift:sub"
    id="tspan6293">1</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="18.372032"
-       y="50.531334"
-       id="text10991"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
-       inkscape:export-xdpi="600"
-       inkscape:export-ydpi="600"><tspan
-         sodipodi:role="line"
-         id="tspan10989"
-         style="stroke-width:0.264583"
-         x="18.372032"
-         y="50.531334">V<tspan
-   style="font-size:65%;baseline-shift:sub"
-   id="tspan11183">in</tspan></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 160.0729,54.239578 7.93749,-1e-6 V 31.749994"
        id="path999"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"
        sodipodi:nodetypes="ccc" />
@@ -141,7 +125,7 @@
        y="-58.061768"
        id="text16716"
        transform="scale(1,-1)"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
@@ -156,7 +140,7 @@
        y="-47.53109"
        id="text16716-4"
        transform="scale(1,-1)"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
@@ -172,7 +156,7 @@
        x="138.90623"
        y="29.104156"
        ry="4.0221675e-14"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <path
@@ -192,7 +176,7 @@
        transform="matrix(0.42772024,0,0,0.34624979,32.593079,-31.379976)"
        inkscape:transform-center-y="0.86562201"
        inkscape:transform-center-x="1.2072881e-06"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"
        d="m 230,305 -8.66025,-15 17.3205,0 z" />
@@ -201,7 +185,7 @@
        d="m 130.96874,69.032463 v -9.501219 h 9.2604"
        id="path4372"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <text
@@ -210,7 +194,7 @@
        x="146.9836"
        y="27.456783"
        id="text5741-6"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
@@ -225,7 +209,7 @@
        d="m 123.03122,31.749994 h 15.87501"
        id="path31563"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <path
@@ -233,31 +217,31 @@
        d="m 130.96873,31.749994 1e-5,17.197917 h 9.2604"
        id="path32080"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 160.0729,31.749994 h 15.87499"
+       d="m 160.0729,31.749994 19.84377,3e-6 v 13.096295"
        id="path31563-9"
-       sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 29.104168,44.979166 -1e-6,-18.520833 h 3.96875"
+       d="m 29.104168,47.889583 -1e-6,-21.43125 h 3.96875"
        id="path1878"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 29.104168,53.18125 0,15.851213"
+       d="m 29.104168,50.535416 0,18.497047"
        id="path2285"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <path
@@ -276,7 +260,7 @@
        inkscape:randomized="0"
        transform="matrix(0.26458333,0,0,0.26458333,85.989585,19.84375)"
        inkscape:transform-center-x="-3.3072909"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"
        d="m 280,130 -75,43.30127 0,-86.60254 z" />
@@ -285,7 +269,7 @@
        d="m 150.15104,42.333333 v 6.177853"
        id="path999-7-4"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <path
@@ -293,7 +277,7 @@
        d="m 150.15104,59.96798 v 6.177853"
        id="path999-7-4-5"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <text
@@ -302,7 +286,7 @@
        x="144.23453"
        y="41.611572"
        id="text12073"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
@@ -316,7 +300,7 @@
        x="144.96498"
        y="70.061394"
        id="text12073-2"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
@@ -331,7 +315,7 @@
        y="-25.068319"
        id="text16716-6"
        transform="scale(1,-1)"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
@@ -346,7 +330,7 @@
        y="-35.587898"
        id="text16716-4-8"
        transform="scale(1,-1)"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
@@ -370,7 +354,7 @@
        inkscape:randomized="0"
        transform="matrix(0.26458333,0,0,0.26458333,14.552084,-2.6458329)"
        inkscape:transform-center-x="-3.3072909"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"
        d="m 280,130 -75,43.30127 0,-86.60254 z" />
@@ -379,7 +363,7 @@
        d="m 78.713539,19.843749 v 6.177853"
        id="path999-7-4-1"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <path
@@ -387,7 +371,7 @@
        d="m 78.713539,37.478396 v 6.177853"
        id="path999-7-4-5-7"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <text
@@ -396,7 +380,7 @@
        x="72.797028"
        y="19.121988"
        id="text12073-8"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
@@ -410,7 +394,7 @@
        x="73.527481"
        y="47.571815"
        id="text12073-2-6"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
@@ -423,7 +407,7 @@
        d="m 88.635417,31.75 13.229163,0"
        id="path24654"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <path
@@ -431,7 +415,7 @@
        d="m 95.25,31.749999 v 21.166666 l -31.75,0 v -15.875 h 5.291665"
        id="path24884"
        sodipodi:nodetypes="ccccc"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <path
@@ -439,7 +423,7 @@
        d="m 54.239584,26.458333 14.552083,0"
        id="path25739"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <text
@@ -448,7 +432,7 @@
        x="41.309772"
        y="22.288074"
        id="text5741-3"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
@@ -458,142 +442,15 @@
          y="22.288074">R<tspan
    style="font-size:65%;baseline-shift:sub"
    id="tspan27234">s</tspan></tspan></text>
-    <path
-       sodipodi:type="star"
-       style="opacity:0.99;fill:none;stroke:#000000;stroke-width:1.71881;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-       id="path3858-4-0"
-       inkscape:flatsided="true"
-       sodipodi:sides="3"
-       sodipodi:cx="230"
-       sodipodi:cy="295"
-       sodipodi:r1="10"
-       sodipodi:r2="5"
-       sodipodi:arg1="1.5707963"
-       sodipodi:arg2="2.6179939"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       transform="matrix(0.42772024,0,0,0.34624979,8.7805959,4.0979743)"
-       inkscape:transform-center-y="0.86562201"
-       inkscape:transform-center-x="1.2072881e-06"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
-       inkscape:export-xdpi="600"
-       inkscape:export-ydpi="600"
-       d="m 230,305 -8.66025,-15 17.3205,0 z" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 107.15626,100.54165 v 3.96875"
-       id="path6792-6"
-       sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
-       inkscape:export-xdpi="600"
-       inkscape:export-ydpi="600" />
-    <rect
-       style="opacity:0.99;fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect16223"
-       width="34.395832"
-       height="34.395832"
-       x="75.40625"
-       y="66.145836"
-       ry="4.0221692e-14"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
-       inkscape:export-xdpi="600"
-       inkscape:export-ydpi="600" />
-    <rect
-       style="opacity:0.99;fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect16223-7"
-       width="26.458334"
-       height="13.229177"
-       x="79.375015"
-       y="68.791672"
-       ry="4.0221692e-14"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
-       inkscape:export-xdpi="600"
-       inkscape:export-ydpi="600" />
-    <circle
-       style="opacity:0.99;fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path16611"
-       cx="100.54166"
-       cy="95.249992"
-       r="1.3229166"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
-       inkscape:export-xdpi="600"
-       inkscape:export-ydpi="600" />
-    <circle
-       style="opacity:0.99;fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path16611-1"
-       cx="84.666664"
-       cy="95.25"
-       r="1.3229166"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
-       inkscape:export-xdpi="600"
-       inkscape:export-ydpi="600" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="79.676865"
-       y="92.230759"
-       id="text18151"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
-       inkscape:export-xdpi="600"
-       inkscape:export-ydpi="600"><tspan
-         sodipodi:role="line"
-         id="tspan18149"
-         style="stroke-width:0.264583"
-         x="79.676865"
-         y="92.230759">Ch. 1</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="95.028671"
-       y="91.990402"
-       id="text18151-4"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
-       inkscape:export-xdpi="600"
-       inkscape:export-ydpi="600"><tspan
-         sodipodi:role="line"
-         id="tspan18149-2"
-         style="stroke-width:0.264583"
-         x="95.028671"
-         y="91.990402">Ch. 2</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="82.847824"
-       y="63.651249"
-       id="text23044"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
-       inkscape:export-xdpi="600"
-       inkscape:export-ydpi="600"><tspan
-         sodipodi:role="line"
-         id="tspan23042"
-         style="stroke-width:0.264583"
-         x="82.847824"
-         y="63.651249">電子電圧計</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 29.104166,35.71875 h 14.552083 l 0,75.40625 41.010417,0 V 95.249999"
-       id="path1212"
-       sodipodi:nodetypes="ccccc"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
-       inkscape:export-xdpi="600"
-       inkscape:export-ydpi="600" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.66145833;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="M 100.54167,95.249999 V 111.125 l 75.40625,0 0,-79.375"
-       id="path1247"
-       sodipodi:nodetypes="cccc"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
-       inkscape:export-xdpi="600"
-       inkscape:export-ydpi="600" />
     <rect
        style="opacity:0.99;fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect1578-9-9"
        width="21.166666"
        height="5.2916756"
        x="101.86456"
-       y="140.22916"
+       y="113.77082"
        ry="4.0221675e-14"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\unfollower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_unfollower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <rect
@@ -602,9 +459,9 @@
        width="21.166666"
        height="5.2916756"
        x="33.072918"
-       y="140.22917"
+       y="113.77084"
        ry="4.0221675e-14"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\unfollower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_unfollower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <path
@@ -621,10 +478,10 @@
        sodipodi:arg2="2.6179939"
        inkscape:rounded="0"
        inkscape:randomized="0"
-       transform="matrix(0.42772024,0,0,0.34624979,-69.27149,85.036693)"
+       transform="matrix(0.42772024,0,0,0.34624979,-69.27149,58.57836)"
        inkscape:transform-center-y="0.86562201"
        inkscape:transform-center-x="1.2072881e-06"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\unfollower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_unfollower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"
        d="m 230,305 -8.66025,-15 17.3205,0 z" />
@@ -632,39 +489,23 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="110.27629"
-       y="138.58179"
+       y="112.12345"
        id="text5741-4"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\unfollower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_unfollower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan5739-5"
          style="stroke-width:0.264583"
          x="110.27629"
-         y="138.58179">R<tspan
+         y="112.12345">R<tspan
    style="font-size:65%;baseline-shift:sub"
    id="tspan6293-3">1</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="18.372032"
-       y="166.948"
-       id="text10991-9"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\unfollower.png"
-       inkscape:export-xdpi="600"
-       inkscape:export-ydpi="600"><tspan
-         sodipodi:role="line"
-         id="tspan10989-5"
-         style="stroke-width:0.264583"
-         x="18.372032"
-         y="166.948">V<tspan
-   style="font-size:65%;baseline-shift:sub"
-   id="tspan11183-2">in</tspan></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 160.0729,165.36458 h 7.93749 v -22.48959"
+       d="m 160.0729,138.90625 h 7.93749 v -22.48959"
        id="path999-2"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\unfollower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_unfollower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"
        sodipodi:nodetypes="ccc" />
@@ -672,41 +513,41 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="141.29074"
-       y="-169.18677"
+       y="-142.72844"
        id="text16716-0"
        transform="scale(1,-1)"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\unfollower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_unfollower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan16714-59"
          style="stroke-width:0.264583"
          x="141.29074"
-         y="-169.18677">+</tspan></text>
+         y="-142.72844">+</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="140.98001"
-       y="-158.65608"
+       y="-132.19775"
        id="text16716-4-6"
        transform="scale(1,-1)"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\unfollower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_unfollower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan16714-5-8"
          style="stroke-width:0.264583"
          x="140.98001"
-         y="-158.65608">－</tspan></text>
+         y="-132.19775">－</tspan></text>
     <rect
        style="opacity:0.99;fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:normal"
        id="rect1578-9-0-2"
        width="21.166666"
        height="5.2916756"
        x="138.90623"
-       y="140.22916"
+       y="113.77082"
        ry="4.0221675e-14"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\unfollower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_unfollower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <path
@@ -723,75 +564,75 @@
        sodipodi:arg2="2.6179939"
        inkscape:rounded="0"
        inkscape:randomized="0"
-       transform="matrix(0.42772024,0,0,0.34624979,32.593079,79.745023)"
+       transform="matrix(0.42772024,0,0,0.34624979,32.593079,53.28669)"
        inkscape:transform-center-y="0.86562201"
        inkscape:transform-center-x="1.2072881e-06"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\unfollower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_unfollower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"
        d="m 230,305 -8.66025,-15 17.3205,0 z" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 130.96874,180.15746 v -9.50122 h 9.2604"
+       d="m 130.96874,153.69913 v -9.50122 h 9.2604"
        id="path4372-7"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\unfollower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_unfollower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="146.9836"
-       y="138.58179"
+       y="112.12345"
        id="text5741-6-8"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\unfollower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_unfollower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan5739-7-5"
          style="stroke-width:0.264583"
          x="146.9836"
-         y="138.58179">R<tspan
+         y="112.12345">R<tspan
    style="font-size:65%;baseline-shift:sub"
    id="tspan7849-7">2</tspan></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 123.03122,142.87499 h 15.87501"
+       d="m 123.03122,116.41666 h 15.87501"
        id="path31563-0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\unfollower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_unfollower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 130.96873,142.87499 1e-5,17.19792 h 9.2604"
+       d="m 130.96873,116.41666 1e-5,17.19792 h 9.2604"
        id="path32080-6"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\unfollower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_unfollower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 160.0729,142.87499 h 15.87499"
+       d="m 160.0729,116.41666 19.84377,1e-5 v 12.7"
        id="path31563-9-7"
-       sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\unfollower.png"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_unfollower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 29.104169,161.66042 -10e-7,-18.78542 h 3.968749"
+       d="m 29.104169,138.90625 -10e-7,-22.48958 h 3.968749"
        id="path1878-4"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\unfollower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_unfollower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 29.104169,169.93113 0,15.518"
+       d="m 29.104169,141.55209 0,17.43871"
        id="path2285-6"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\unfollower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_unfollower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <path
@@ -808,207 +649,80 @@
        sodipodi:arg2="1.0471976"
        inkscape:rounded="0"
        inkscape:randomized="0"
-       transform="matrix(0.26458333,0,0,0.26458333,85.989585,130.96875)"
+       transform="matrix(0.26458333,0,0,0.26458333,85.989585,104.51042)"
        inkscape:transform-center-x="-3.3072909"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\unfollower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_unfollower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"
        d="m 280,130 -75,43.30127 0,-86.60254 z" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 150.15104,153.45833 v 6.17786"
+       d="m 150.15104,127 v 6.17786"
        id="path999-7-4-9"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\unfollower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_unfollower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 150.15104,171.09298 v 6.17785"
+       d="m 150.15104,144.63465 v 6.17785"
        id="path999-7-4-5-5"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\unfollower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_unfollower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="144.23453"
-       y="152.73657"
+       y="126.27824"
        id="text12073-6"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\unfollower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_unfollower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan12071-2"
          style="stroke-width:0.264583"
          x="144.23453"
-         y="152.73657">+15V</tspan></text>
+         y="126.27824">+15V</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="144.96498"
-       y="181.18639"
+       y="154.72806"
        id="text12073-2-8"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\unfollower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_unfollower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan12071-7-6"
          style="stroke-width:0.264583"
          x="144.96498"
-         y="181.18639">-15V</tspan></text>
+         y="154.72806">-15V</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 54.239583,142.875 47.624977,0"
+       d="M 54.239583,116.41667 H 101.86456"
        id="path25739-6"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\unfollower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_unfollower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="41.309772"
-       y="138.38858"
+       y="111.93024"
        id="text5741-3-1"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\unfollower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_unfollower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan5739-1-0"
          style="stroke-width:0.264583"
          x="41.309772"
-         y="138.38858">R<tspan
+         y="111.93024">R<tspan
    style="font-size:65%;baseline-shift:sub"
    id="tspan27234-6">s</tspan></tspan></text>
-    <path
-       sodipodi:type="star"
-       style="opacity:0.99;fill:none;stroke:#000000;stroke-width:1.71881;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-       id="path3858-4-0-5"
-       inkscape:flatsided="true"
-       sodipodi:sides="3"
-       sodipodi:cx="230"
-       sodipodi:cy="295"
-       sodipodi:r1="10"
-       sodipodi:r2="5"
-       sodipodi:arg1="1.5707963"
-       sodipodi:arg2="2.6179939"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       transform="matrix(0.42772024,0,0,0.34624979,8.7805957,115.22297)"
-       inkscape:transform-center-y="0.86562201"
-       inkscape:transform-center-x="1.2072881e-06"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\unfollower.png"
-       inkscape:export-xdpi="600"
-       inkscape:export-ydpi="600"
-       d="m 230,305 -8.66025,-15 17.3205,0 z" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 107.15626,211.66665 v 3.96875"
-       id="path6792-6-3"
-       sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\unfollower.png"
-       inkscape:export-xdpi="600"
-       inkscape:export-ydpi="600" />
-    <rect
-       style="opacity:0.99;fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect16223-2"
-       width="34.395832"
-       height="34.395832"
-       x="75.40625"
-       y="177.27083"
-       ry="4.0221692e-14"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\unfollower.png"
-       inkscape:export-xdpi="600"
-       inkscape:export-ydpi="600" />
-    <rect
-       style="opacity:0.99;fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect16223-7-6"
-       width="26.458334"
-       height="13.229177"
-       x="79.375015"
-       y="179.91667"
-       ry="4.0221692e-14"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\unfollower.png"
-       inkscape:export-xdpi="600"
-       inkscape:export-ydpi="600" />
-    <circle
-       style="opacity:0.99;fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path16611-5"
-       cx="100.54166"
-       cy="206.37498"
-       r="1.3229166"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\unfollower.png"
-       inkscape:export-xdpi="600"
-       inkscape:export-ydpi="600" />
-    <circle
-       style="opacity:0.99;fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path16611-1-9"
-       cx="84.666664"
-       cy="206.375"
-       r="1.3229166"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\unfollower.png"
-       inkscape:export-xdpi="600"
-       inkscape:export-ydpi="600" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="79.676865"
-       y="203.35576"
-       id="text18151-1"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\unfollower.png"
-       inkscape:export-xdpi="600"
-       inkscape:export-ydpi="600"><tspan
-         sodipodi:role="line"
-         id="tspan18149-4"
-         style="stroke-width:0.264583"
-         x="79.676865"
-         y="203.35576">Ch. 1</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="95.028671"
-       y="203.1154"
-       id="text18151-4-3"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\unfollower.png"
-       inkscape:export-xdpi="600"
-       inkscape:export-ydpi="600"><tspan
-         sodipodi:role="line"
-         id="tspan18149-2-1"
-         style="stroke-width:0.264583"
-         x="95.028671"
-         y="203.1154">Ch. 2</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="82.847824"
-       y="174.77625"
-       id="text23044-4"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\unfollower.png"
-       inkscape:export-xdpi="600"
-       inkscape:export-ydpi="600"><tspan
-         sodipodi:role="line"
-         id="tspan23042-1"
-         style="stroke-width:0.264583"
-         x="82.847824"
-         y="174.77625">電子電圧計</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 29.104167,153.45833 14.552083,0 -10e-7,68.79167 h 41.010417 v -15.875"
-       id="path1212-6"
-       sodipodi:nodetypes="ccccc"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\unfollower.png"
-       inkscape:export-xdpi="600"
-       inkscape:export-ydpi="600" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 100.54167,206.375 v 15.875 h 75.40625 v -79.375"
-       id="path1247-6"
-       sodipodi:nodetypes="cccc"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\unfollower.png"
-       inkscape:export-xdpi="600"
-       inkscape:export-ydpi="600" />
     <rect
        style="opacity:0.99;fill:none;stroke:#000000;stroke-width:0.396875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.38125, 2.38125;stroke-dashoffset:0"
        id="rect3635"
@@ -1017,7 +731,7 @@
        x="59.53125"
        y="14.552082"
        ry="4.0221692e-14"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <text
@@ -1026,7 +740,7 @@
        x="61.422501"
        y="13.427942"
        id="text5241"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
@@ -1042,7 +756,7 @@
        x="16.007298"
        y="14.552083"
        ry="4.0221692e-14"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <text
@@ -1051,7 +765,7 @@
        x="30.332897"
        y="12.615335"
        id="text6383"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
@@ -1065,62 +779,383 @@
        width="40.348953"
        height="41.010418"
        x="16.867191"
-       y="133.61458"
+       y="107.15624"
        ry="4.0221692e-14"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\unfollower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_unfollower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="31.234091"
-       y="131.43797"
+       y="104.97964"
        id="text6383-5"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\unfollower.png"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_unfollower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan6381-9"
          style="stroke-width:0.264583"
          x="31.234091"
-         y="131.43797">信号源</tspan></text>
+         y="104.97964">信号源</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="185.97751"
+       y="50.637543"
+       id="text10991-4"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan10989-5-1"
+         style="stroke-width:0.264583"
+         x="185.97751"
+         y="50.637543">V<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan8530">o</tspan></tspan></text>
     <g
-       id="g6722-4-8"
-       transform="translate(-99.218755,-21.033788)"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\on_follower.png"
+       id="g6722"
+       transform="translate(51.593745,5.2916667)"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600">
       <ellipse
          style="opacity:0.99;fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="path4458-0-8"
+         id="path4458"
          cx="128.32292"
-         cy="70.114578"
+         cy="43.65625"
          rx="3.968755"
          ry="4.101624" />
-      <path
-         style="opacity:0.99;fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         d="m 126.08387,70.114537 c 0.21322,-0.320855 0.42644,-0.638256 0.63965,-0.838403 0.21321,-0.200167 0.42644,-0.278329 0.63965,-0.207077 0.21321,0.07125 0.42642,0.291186 0.63965,0.580194 0.21378,0.289008 0.427,0.641417 0.64022,0.930551 0.21322,0.289134 0.42643,0.508649 0.63964,0.580194 0.21323,0.07155 0.42644,-0.0071 0.63965,-0.207078 0.21321,-0.199916 0.42644,-0.517547 0.63965,-0.838381"
-         title="sin(x)"
-         id="path15764" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="126.44672"
+         y="45.50592"
+         id="text2298"><tspan
+           sodipodi:role="line"
+           id="tspan2296"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic Bold';stroke-width:0.264583"
+           x="126.44672"
+           y="45.50592">V</tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="18.478346"
+       y="50.002285"
+       id="text10991"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan10989"
+         style="stroke-width:0.264583"
+         x="18.478346"
+         y="50.002285">V<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan11183">in</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 25.135417,47.889583 h 7.9375"
+       id="path1510"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 27.78125,50.535416 h 2.645833"
+       id="path2499"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       sodipodi:type="star"
+       style="opacity:0.99;fill:none;stroke:#000000;stroke-width:1.71881;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="path3858-3"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="230"
+       sodipodi:cy="295"
+       sodipodi:r1="10"
+       sodipodi:r2="5"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.6179939"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       transform="matrix(0.42772024,0,0,0.34624979,81.541012,-31.379976)"
+       inkscape:transform-center-y="0.86562201"
+       inkscape:transform-center-x="1.2072881e-06"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       d="m 230,305 -8.66025,-15 17.3205,0 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 179.91666,53.04954 V 69.032463"
+       id="path2395"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="185.97751"
+       y="135.06342"
+       id="text10991-4-0"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_unfollower_dc.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan10989-5-1-5"
+         style="stroke-width:0.264583"
+         x="185.97751"
+         y="135.06342">V<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan8530-0">o</tspan></tspan></text>
     <g
-       id="g6722-4-8-5"
-       transform="translate(-99.163237,95.715332)"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\unfollower.png"
+       id="g6722-3"
+       transform="translate(51.593745,89.717537)"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_unfollower_dc.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600">
       <ellipse
          style="opacity:0.99;fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="path4458-0-8-6"
+         id="path4458-1"
          cx="128.32292"
-         cy="70.114578"
+         cy="43.65625"
          rx="3.968755"
          ry="4.101624" />
-      <path
-         style="opacity:0.99;fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         d="m 126.08387,70.114537 c 0.21322,-0.320855 0.42644,-0.638256 0.63965,-0.838403 0.21321,-0.200167 0.42644,-0.278329 0.63965,-0.207077 0.21321,0.07125 0.42642,0.291186 0.63965,0.580194 0.21378,0.289008 0.427,0.641417 0.64022,0.930551 0.21322,0.289134 0.42643,0.508649 0.63964,0.580194 0.21323,0.07155 0.42644,-0.0071 0.63965,-0.207078 0.21321,-0.199916 0.42644,-0.517547 0.63965,-0.838381"
-         title="sin(x)"
-         id="path15764-9" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="126.44672"
+         y="45.50592"
+         id="text2298-4"><tspan
+           sodipodi:role="line"
+           id="tspan2296-0"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic Bold';stroke-width:0.264583"
+           x="126.44672"
+           y="45.50592">V</tspan></text>
     </g>
+    <path
+       sodipodi:type="star"
+       style="opacity:0.99;fill:none;stroke:#000000;stroke-width:1.71881;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="path3858-3-3"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="230"
+       sodipodi:cy="295"
+       sodipodi:r1="10"
+       sodipodi:r2="5"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.6179939"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       transform="matrix(0.42772024,0,0,0.34624979,81.541012,53.28669)"
+       inkscape:transform-center-y="0.86562201"
+       inkscape:transform-center-x="1.2072881e-06"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_unfollower_dc.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       d="m 230,305 -8.66025,-15 17.3205,0 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 179.91666,137.47541 v 16.24751"
+       id="path2395-3"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_unfollower_dc.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="50.019394"
+       y="50.4487"
+       id="text10991-4-8"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       inkscape:transform-center-x="-2.1688144"
+       inkscape:transform-center-y="1.5734536"><tspan
+         sodipodi:role="line"
+         id="tspan10989-5-1-4"
+         style="stroke-width:0.264583"
+         x="50.019394"
+         y="50.4487">V<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan4096">1</tspan></tspan></text>
+    <g
+       id="g6722-0"
+       transform="translate(-83.343755,5.3154535)"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <ellipse
+         style="opacity:0.99;fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path4458-5"
+         cx="128.32292"
+         cy="43.65625"
+         rx="3.968755"
+         ry="4.101624" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="126.44672"
+         y="45.50592"
+         id="text2298-2"><tspan
+           sodipodi:role="line"
+           id="tspan2296-3"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic Bold';stroke-width:0.264583"
+           x="126.44672"
+           y="45.50592">V</tspan></text>
+    </g>
+    <path
+       sodipodi:type="star"
+       style="opacity:0.99;fill:none;stroke:#000000;stroke-width:1.71881;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="path3858-3-0"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="230"
+       sodipodi:cy="295"
+       sodipodi:r1="10"
+       sodipodi:r2="5"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.6179939"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       transform="matrix(0.42772024,0,0,0.34624979,-53.396488,-31.356189)"
+       inkscape:transform-center-y="0.86562201"
+       inkscape:transform-center-x="1.2072881e-06"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       d="m 230,305 -8.66025,-15 17.3205,0 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 44.979165,53.073328 0,15.982922"
+       id="path2395-9"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.66145833;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 44.979166,44.870078 v -7.828412 h -15.875"
+       id="path4585"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_follower_dc.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="50.019398"
+       y="140.40703"
+       id="text10991-4-8-7"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_unfollower_dc.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       inkscape:transform-center-x="-2.1688144"
+       inkscape:transform-center-y="1.5734536"><tspan
+         sodipodi:role="line"
+         id="tspan10989-5-1-4-6"
+         style="stroke-width:0.264583"
+         x="50.019398"
+         y="140.40703">V<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan4096-7">1</tspan></tspan></text>
+    <g
+       id="g6722-0-7"
+       transform="translate(-83.343754,95.273785)"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_unfollower_dc.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <ellipse
+         style="opacity:0.99;fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path4458-5-7"
+         cx="128.32292"
+         cy="43.65625"
+         rx="3.968755"
+         ry="4.101624" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="126.44672"
+         y="45.50592"
+         id="text2298-2-5"><tspan
+           sodipodi:role="line"
+           id="tspan2296-3-8"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic Bold';stroke-width:0.264583"
+           x="126.44672"
+           y="45.50592">V</tspan></text>
+    </g>
+    <path
+       sodipodi:type="star"
+       style="opacity:0.99;fill:none;stroke:#000000;stroke-width:1.71881;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="path3858-3-0-2"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="230"
+       sodipodi:cy="295"
+       sodipodi:r1="10"
+       sodipodi:r2="5"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.6179939"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       transform="matrix(0.42772024,0,0,0.34624979,-53.396487,58.602142)"
+       inkscape:transform-center-y="0.86562201"
+       inkscape:transform-center-x="1.2072881e-06"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_unfollower_dc.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       d="m 230,305 -8.66025,-15 17.3205,0 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 44.979166,143.03166 v 15.98292"
+       id="path2395-9-9"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_unfollower_dc.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 44.979167,134.82841 V 127 h -15.875"
+       id="path4585-6"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_unfollower_dc.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="18.478344"
+       y="141.01895"
+       id="text10991-41"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_unfollower_dc.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan10989-1"
+         style="stroke-width:0.264583"
+         x="18.478344"
+         y="141.01895">V<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan11183-8">in</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 25.135417,138.90625 h 7.9375"
+       id="path1510-6"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_unfollower_dc.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 27.78125,141.55209 h 2.645833"
+       id="path2499-2"
+       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_unfollower_dc.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
   </g>
 </svg>
