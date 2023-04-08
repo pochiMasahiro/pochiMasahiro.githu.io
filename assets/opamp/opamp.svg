@@ -29,9 +29,9 @@
      inkscape:snap-grids="true"
      inkscape:snap-smooth-nodes="false"
      inkscape:snap-midpoints="true"
-     inkscape:zoom="2.1997092"
-     inkscape:cx="335.27159"
-     inkscape:cy="230.93962"
+     inkscape:zoom="1.5554293"
+     inkscape:cx="307.63211"
+     inkscape:cy="194.80153"
      inkscape:window-width="1920"
      inkscape:window-height="1137"
      inkscape:window-x="-8"
@@ -43,13 +43,21 @@
        id="grid824" />
   </sodipodi:namedview>
   <defs
-     id="defs2" />
+     id="defs2">
+    <rect
+       x="160"
+       y="240"
+       width="102.30701"
+       height="95.277214"
+       id="rect6065" />
+  </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g20022">
+       id="g20022"
+       transform="translate(-41.010416,-2.6458333)">
       <path
          sodipodi:type="star"
          style="opacity:0.99;fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
@@ -88,6 +96,42 @@
          d="m 98.557292,48.06173 v 9.260407"
          id="path999-7-4-5" />
     </g>
+    <g
+       id="g20022-2"
+       transform="translate(35.98333,-2.645833)">
+      <g
+         id="g1065">
+        <path
+           sodipodi:type="star"
+           style="opacity:0.99;fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+           id="path848-3"
+           inkscape:flatsided="true"
+           sodipodi:sides="3"
+           sodipodi:cx="230"
+           sodipodi:cy="130"
+           sodipodi:r1="50"
+           sodipodi:r2="25"
+           sodipodi:arg1="0"
+           sodipodi:arg2="1.0471976"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           transform="matrix(0.26458333,0,0,0.26458333,34.395834,7.9375004)"
+           inkscape:transform-center-x="-3.3072909"
+           d="m 280,130 -75,43.30127 0,-86.60254 z" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 108.47917,42.333333 h 9.26041"
+           id="path999-8" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 79.375007,37.041667 h 9.26041"
+           id="path999-7-9" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 79.375007,47.625 h 9.26041"
+           id="path999-6-6" />
+      </g>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -97,89 +141,192 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="73.196838"
-       y="38.524487"
+       x="32.186424"
+       y="35.878654"
        id="text1580"><tspan
          sodipodi:role="line"
          id="tspan1578"
          style="stroke-width:0.264583"
-         x="73.196838"
-         y="38.524487">V<tspan
+         x="32.186424"
+         y="35.878654">V<tspan
    style="font-size:65%;baseline-shift:sub"
    id="tspan3826">+</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="73.196838"
-       y="49.353737"
+       x="32.186424"
+       y="46.707905"
        id="text6074"><tspan
          sodipodi:role="line"
          id="tspan6072"
          style="stroke-width:0.264583"
-         x="73.196838"
-         y="49.353737">V<tspan
+         x="32.186424"
+         y="46.707905">V<tspan
    style="font-size:65%;baseline-shift:sub"
    id="tspan6208">-</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="118.84546"
-       y="43.52771"
+       x="77.835037"
+       y="40.881878"
        id="text1580-3"><tspan
          sodipodi:role="line"
          id="tspan1578-9"
          style="stroke-width:0.264583"
-         x="118.84546"
-         y="43.52771">V<tspan
+         x="77.835037"
+         y="40.881878">V<tspan
    style="font-size:65%;baseline-shift:sub"
    id="tspan8446">o</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="95.002579"
-       y="25.260309"
+       x="53.992165"
+       y="22.614475"
        id="text10038"><tspan
          sodipodi:role="line"
          id="tspan10036"
          style="stroke-width:0.264583"
-         x="95.002579"
-         y="25.260309">V<tspan
+         x="53.992165"
+         y="22.614475">V<tspan
    style="font-size:65%;baseline-shift:sub"
    id="tspan13926">DD</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="95.512886"
-       y="61.577316"
+       x="54.502472"
+       y="58.931484"
        id="text10966"><tspan
          sodipodi:role="line"
          id="tspan10964"
          style="stroke-width:0.264583"
-         x="95.512886"
-         y="61.577316">V<tspan
+         x="54.502472"
+         y="58.931484">V<tspan
    style="font-size:65%;baseline-shift:sub"
    id="tspan12794">SS</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="89.764893"
-       y="38.477852"
+       x="48.754478"
+       y="35.83202"
        id="text16716"><tspan
          sodipodi:role="line"
          id="tspan16714"
          style="stroke-width:0.264583"
-         x="89.764893"
-         y="38.477852">+</tspan></text>
+         x="48.754478"
+         y="35.83202">+</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="89.21154"
-       y="49.008526"
+       x="48.201126"
+       y="46.362694"
        id="text16716-4"><tspan
          sodipodi:role="line"
          id="tspan16714-5"
          style="stroke-width:0.264583"
-         x="89.21154"
-         y="49.008526">－</tspan></text>
+         x="48.201126"
+         y="46.362694">－</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="109.16171"
+       y="35.9258"
+       id="text1580-39"><tspan
+         sodipodi:role="line"
+         id="tspan1578-6"
+         style="stroke-width:0.264583"
+         x="109.16171"
+         y="35.9258">V<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan3826-4">+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="109.16171"
+       y="46.755051"
+       id="text6074-5"><tspan
+         sodipodi:role="line"
+         id="tspan6072-9"
+         style="stroke-width:0.264583"
+         x="109.16171"
+         y="46.755051">V<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan6208-8">-</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="154.81032"
+       y="40.929024"
+       id="text1580-3-9"><tspan
+         sodipodi:role="line"
+         id="tspan1578-9-9"
+         style="stroke-width:0.264583"
+         x="154.81032"
+         y="40.929024">V<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan8446-0">o</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="125.72976"
+       y="35.879166"
+       id="text16716-7"><tspan
+         sodipodi:role="line"
+         id="tspan16714-4"
+         style="stroke-width:0.264583"
+         x="125.72976"
+         y="35.879166">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="125.17641"
+       y="46.40984"
+       id="text16716-4-3"><tspan
+         sodipodi:role="line"
+         id="tspan16714-5-2"
+         style="stroke-width:0.264583"
+         x="125.17641"
+         y="46.40984">－</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="50.391094"
+       y="70.820023"
+       id="text1580-3-6"><tspan
+         sodipodi:role="line"
+         id="tspan1578-9-5"
+         style="stroke-width:0.264583"
+         x="0"
+         y="0"><tspan
+           style="font-size:65%;baseline-shift:sub"
+           id="tspan8446-6" /></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text6063"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:'BIZ UDPGothic';font-style:normal;font-weight:normal;font-size:14.66666667px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'BIZ UDPGothic, Normal';font-stretch:normal;font-variant:normal;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;white-space:pre;shape-inside:url(#rect6065)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="54.384449"
+       y="68.813789"
+       id="text1580-3-3"><tspan
+         sodipodi:role="line"
+         id="tspan1578-9-4"
+         style="stroke-width:0.264583"
+         x="54.384449"
+         y="68.813789">(a)<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan8446-5" /></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="131.37819"
+       y="68.813789"
+       id="text1580-3-3-5"><tspan
+         sodipodi:role="line"
+         id="tspan1578-9-4-3"
+         style="stroke-width:0.264583"
+         x="131.37819"
+         y="68.813789">(b)</tspan></text>
   </g>
 </svg>

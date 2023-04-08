@@ -23,22 +23,25 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:snap-grids="true"
+     inkscape:snap-grids="false"
      inkscape:snap-smooth-nodes="false"
      inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="false"
+     inkscape:snap-intersection-paths="true"
      inkscape:snap-midpoints="true"
      inkscape:object-nodes="true"
-     inkscape:zoom="1.5556349"
-     inkscape:cx="277.70012"
-     inkscape:cy="803.20903"
-     inkscape:window-width="2560"
-     inkscape:window-height="1361"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:zoom="1.1"
+     inkscape:cx="155.90909"
+     inkscape:cy="613.63637"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
-     inkscape:snap-to-guides="true">
+     inkscape:snap-to-guides="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true">
     <inkscape:grid
        type="xygrid"
        id="grid913" />
@@ -95,14 +98,14 @@
        transform="matrix(0.26458333,0,0,-0.26458333,25.135417,95.249997)"
        inkscape:transform-center-x="-3.3072909"
        d="m 280,130 -75,43.30127 0,-86.60254 z"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.66145833;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 99.218753,60.854164 7.937497,-10e-7 V 38.36458"
        id="path999"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"
        sodipodi:nodetypes="ccc" />
@@ -113,7 +116,7 @@
        y="-64.676353"
        id="text16716"
        transform="scale(1,-1)"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
@@ -128,7 +131,7 @@
        y="-54.145676"
        id="text16716-4"
        transform="scale(1,-1)"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
@@ -144,7 +147,7 @@
        x="41.010414"
        y="35.718742"
        ry="4.0221675e-14"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <rect
@@ -155,7 +158,7 @@
        x="78.052086"
        y="35.718742"
        ry="4.0221675e-14"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <path
@@ -176,7 +179,7 @@
        transform="matrix(0.42772024,0,0,0.34624979,-28.261065,-24.76539)"
        inkscape:transform-center-y="0.86562201"
        inkscape:transform-center-x="1.2072881e-06"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <path
@@ -184,14 +187,14 @@
        d="M 70.11459,75.647049 V 66.14583 H 79.375"
        id="path4372"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 31.750004,38.36458 h 9.26041"
        id="path999-6-2"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <text
@@ -200,7 +203,7 @@
        x="48.099255"
        y="33.753769"
        id="text5741"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
@@ -216,7 +219,7 @@
        x="86.790901"
        y="34.071369"
        id="text5741-6"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
@@ -232,7 +235,7 @@
        x="24.116718"
        y="39.106201"
        id="text10991"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
@@ -248,7 +251,7 @@
        x="117.04459"
        y="39.511288"
        id="text10991-4"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
@@ -262,7 +265,7 @@
        x="72.794495"
        y="64.375511"
        id="text22099"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
@@ -278,7 +281,7 @@
        x="72.441475"
        y="54.179249"
        id="text6074"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
@@ -421,7 +424,7 @@
        d="M 62.177078,38.36458 H 78.052086"
        id="path31563"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <path
@@ -429,7 +432,7 @@
        d="m 70.114582,38.36458 8e-6,17.197917 H 79.375"
        id="path32080"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <path
@@ -437,7 +440,7 @@
        d="m 99.21875,38.36458 h 15.875"
        id="path31563-9"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <path
@@ -456,7 +459,7 @@
        inkscape:randomized="0"
        transform="matrix(0.26458333,0,0,-0.26458333,24.324163,261.96289)"
        inkscape:transform-center-x="-3.3072909"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"
        d="m 280,130 -75,43.30127 0,-86.60254 z" />
@@ -464,7 +467,7 @@
        style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 98.407499,227.56705 7.937501,0 v -22.48958"
        id="path999-0"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"
        sodipodi:nodetypes="ccc" />
@@ -475,7 +478,7 @@
        y="-231.38924"
        id="text16716-9"
        transform="scale(1,-1)"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
@@ -490,7 +493,7 @@
        y="-220.85857"
        id="text16716-4-9"
        transform="scale(1,-1)"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
@@ -506,7 +509,7 @@
        x="40.199162"
        y="202.43163"
        ry="4.0221675e-14"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <rect
@@ -517,7 +520,7 @@
        x="77.240829"
        y="202.43163"
        ry="4.0221675e-14"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <path
@@ -537,7 +540,7 @@
        transform="matrix(0.42772024,0,0,0.34624979,-29.072319,141.9475)"
        inkscape:transform-center-y="0.86562201"
        inkscape:transform-center-x="1.2072881e-06"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"
        d="m 230,305 -8.66025,-15 17.3205,0 z" />
@@ -546,14 +549,14 @@
        d="m 69.303336,242.35994 v -9.50122 h 9.26041"
        id="path4372-9"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 30.93875,205.07747 h 9.26041"
        id="path999-6-2-4"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <text
@@ -562,7 +565,7 @@
        x="47.288002"
        y="200.46666"
        id="text5741-5"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
@@ -578,7 +581,7 @@
        x="85.979645"
        y="200.78426"
        id="text5741-6-1"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
@@ -594,7 +597,7 @@
        x="23.305464"
        y="205.81909"
        id="text10991-2"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
@@ -610,7 +613,7 @@
        x="116.23334"
        y="206.22418"
        id="text10991-4-6"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
@@ -624,7 +627,7 @@
        x="71.983238"
        y="231.08839"
        id="text22099-6"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
@@ -640,7 +643,7 @@
        x="71.630219"
        y="220.89214"
        id="text6074-1"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
@@ -655,7 +658,7 @@
        d="M 61.365824,205.07747 H 77.240832"
        id="path31563-2"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <path
@@ -663,7 +666,7 @@
        d="m 69.303328,205.07747 8e-6,17.19792 h 9.26041"
        id="path32080-5"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <path
@@ -671,14 +674,14 @@
        d="M 98.407496,205.07747 H 114.2825"
        id="path31563-9-3"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.66145833;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
        d="M 37.041666,194.46875 H 97.895832"
        id="path1802"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <text
@@ -687,7 +690,7 @@
        x="64.638458"
        y="192.74876"
        id="text2569"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
@@ -701,13 +704,13 @@
        style="fill:none;stroke:#000000;stroke-width:0.66145833;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker7996)"
        d="m 47.624999,211.66666 c 0,0 7.9375,0 13.229167,0 5.291666,0 5.291666,5.29167 5.291666,5.29167 l 10e-7,5.29167"
        id="path7992"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <g
        id="g8203"
        transform="translate(3.3072923,-5.9531183)"
-       inkscape:export-filename="C:\Users\Masahiro\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600">
       <path
@@ -719,5 +722,50 @@
          d="m 52.916666,215.63541 3.96875,3.96875"
          id="path8119" />
     </g>
+    <circle
+       style="opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.661458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path4458-4-5-6-7-7"
+       cx="70.114578"
+       cy="38.364578"
+       r="0.97590113"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <circle
+       style="opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.661458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path4458-4-5-6-7-7-5"
+       cx="107.15625"
+       cy="38.364578"
+       r="0.97590113"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <circle
+       style="opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.661458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path4458-4-5-6-7-7-9"
+       cx="70.776031"
+       cy="130.96875"
+       r="0.97590113"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\partial.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <circle
+       style="opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.661458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path4458-4-5-6-7-7-53"
+       cx="69.303329"
+       cy="205.07747"
+       r="0.97590113"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <circle
+       style="opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.661458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path4458-4-5-6-7-7-1"
+       cx="106.345"
+       cy="205.07747"
+       r="0.97590113"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\virtual.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
   </g>
 </svg>

@@ -48,7 +48,14 @@
        id="grid937" />
   </sodipodi:namedview>
   <defs
-     id="defs873" />
+     id="defs873">
+    <rect
+       x="540"
+       y="260"
+       width="440"
+       height="200"
+       id="rect25532" />
+  </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
@@ -347,7 +354,7 @@
        x="176.7171"
        y="135.30423"
        id="text10991-4-7"
-       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_dc.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_ac.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
@@ -374,7 +381,7 @@
        transform="matrix(0.42772024,0,0,0.34624979,72.280597,50.400062)"
        inkscape:transform-center-y="0.86562201"
        inkscape:transform-center-x="1.2072881e-06"
-       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_dc.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_ac.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"
        d="m 230,305 -8.66025,-15 17.3205,0 z" />
@@ -382,14 +389,14 @@
        style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 162.71875,113.77083 h 7.9375 v 15.875"
        id="path6757-3"
-       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_dc.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_ac.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 170.65625,137.58333 V 150.8125"
        id="path6792-8"
-       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_dc.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_ac.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <path
@@ -464,7 +471,7 @@
        x="88.635414"
        y="111.12499"
        ry="4.0221675e-14"
-       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_ac.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <path
@@ -484,7 +491,7 @@
        transform="matrix(0.42772024,0,0,0.34624979,-16.35482,50.449037)"
        inkscape:transform-center-y="0.86562201"
        inkscape:transform-center-x="1.2072881e-06"
-       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_ac.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"
        d="m 230,305 -8.66025,-15 17.3205,0 z" />
@@ -494,7 +501,7 @@
        x="97.047157"
        y="109.47765"
        id="text5741-61"
-       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_ac.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
@@ -508,7 +515,7 @@
        style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 146.84375,136.26041 h 7.9375 v -22.48958"
        id="path999-2"
-       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_ac.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"
        sodipodi:nodetypes="ccc" />
@@ -519,7 +526,7 @@
        y="-140.08263"
        id="text16716-40"
        transform="scale(1,-1)"
-       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_ac.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
@@ -534,7 +541,7 @@
        y="-129.55194"
        id="text16716-4-8"
        transform="scale(1,-1)"
-       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_ac.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
@@ -550,7 +557,7 @@
        x="125.67709"
        y="111.12499"
        ry="4.0221675e-14"
-       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_ac.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <path
@@ -570,7 +577,7 @@
        transform="matrix(0.42772024,0,0,0.34624979,19.363931,50.640867)"
        inkscape:transform-center-y="0.86562201"
        inkscape:transform-center-x="1.2072881e-06"
-       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_ac.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"
        d="m 230,305 -8.66025,-15 17.3205,0 z" />
@@ -579,7 +586,7 @@
        d="m 117.73959,151.0533 v -9.50122 H 127"
        id="path4372-4"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_ac.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <text
@@ -588,7 +595,7 @@
        x="133.75444"
        y="109.47765"
        id="text5741-6-5"
-       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_ac.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
@@ -603,7 +610,7 @@
        d="m 109.80207,113.77083 h 15.87501"
        id="path31563-8"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_ac.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <path
@@ -611,7 +618,7 @@
        d="m 117.73958,113.77083 1e-5,17.19792 H 127"
        id="path32080-4"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_ac.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <path
@@ -619,24 +626,33 @@
        d="m 146.84375,113.77083 h 15.875"
        id="path31563-9-8"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_amp.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_ac.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 58.208333,113.77083 30.427086,0"
        id="path1878-5"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_ac.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 82.020835,137.71621 v 13.14525"
        id="path2285-3"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_ac.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 82.020835,113.77083 v 15.74213"
        id="path2285-3-0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_ac.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
     <path
        sodipodi:type="star"
        style="opacity:0.99;fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
@@ -653,39 +669,54 @@
        inkscape:randomized="0"
        transform="matrix(0.26458333,0,0,0.26458333,72.760437,101.86459)"
        inkscape:transform-center-x="-3.3072909"
-       d="m 280,130 -75,43.30127 0,-86.60254 z" />
+       d="m 280,130 -75,43.30127 0,-86.60254 z"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_ac.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 136.92189,124.35417 v 6.17785"
        id="path999-7-4-8"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_ac.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 136.92189,141.98882 v 6.17785"
        id="path999-7-4-5-7"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_ac.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="131.00537"
        y="123.63242"
-       id="text12073-8"><tspan
+       id="text12073-8"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_ac.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan12071-0"
          style="stroke-width:0.264583"
          x="131.00537"
-         y="123.63242">+15V</tspan></text>
+         y="123.63242">+12V</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="131.73581"
        y="152.08226"
-       id="text12073-2-4"><tspan
+       id="text12073-2-4"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_ac.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan12071-7-0"
          style="stroke-width:0.264583"
          x="131.73581"
-         y="152.08226">-15V</tspan></text>
+         y="152.08226">-12V</tspan></text>
     <g
        id="g6722-1"
        transform="translate(-79.37501)"
@@ -741,7 +772,10 @@
        inkscape:export-ydpi="600" />
     <g
        id="g13906"
-       transform="translate(34.395835,-25.796895)">
+       transform="translate(34.395835,-25.796895)"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_ac.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
       <rect
          style="opacity:0.99;fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
          id="rect1578-9-4-5"
@@ -790,7 +824,10 @@
     </g>
     <g
        id="g21380"
-       transform="translate(31.749999,-30.427087)">
+       transform="translate(31.749999,-30.427087)"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_ac.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
       <rect
          style="opacity:0.99;fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
          id="rect1578-9-4-5-9"
@@ -828,7 +865,10 @@
     </g>
     <g
        id="g16030"
-       transform="translate(27.78125,-13.229166)">
+       transform="translate(27.78125,-13.229166)"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_ac.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
       <ellipse
          style="opacity:0.99;fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
          id="path4458-4-2"
@@ -855,7 +895,10 @@
     </g>
     <g
        id="g16030-8"
-       transform="translate(116.41667,-13.229166)">
+       transform="translate(116.41667,-13.229166)"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_ac.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
       <ellipse
          style="opacity:0.99;fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
          id="path4458-4-2-1"
@@ -886,7 +929,7 @@
        x="87.074661"
        y="134.71855"
        id="text10991-4-7-4"
-       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_dc.png"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_ac.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
@@ -901,7 +944,10 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="24.108845"
        y="99.216492"
-       id="text18866"><tspan
+       id="text18866"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_ac.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan18864"
          style="stroke-width:0.264583"
@@ -912,7 +958,10 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="45.887711"
        y="124.41068"
-       id="text21168"><tspan
+       id="text21168"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_ac.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan21166"
          style="stroke-width:0.264583"
@@ -921,48 +970,79 @@
     <path
        style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 42.333333,113.77083 v 30.42708 h 18.520833 v -6.61458"
-       id="path21415" />
+       id="path21415"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_ac.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
     <circle
        style="opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.661458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="path4458-4-5-6-7"
        cx="37.041668"
        cy="55.5625"
-       r="0.97590113" />
+       r="0.97590113"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_dc.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
     <circle
        style="opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.661458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="path4458-4-5-6-7-7"
        cx="37.041668"
        cy="31.75"
-       r="0.97590113" />
+       r="0.97590113"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_dc.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
     <circle
        style="opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.661458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="path4458-4-5-6-7-6"
        cx="75.40625"
        cy="23.8125"
-       r="0.97590113" />
+       r="0.97590113"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_dc.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
     <circle
        style="opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.661458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="path4458-4-5-6-7-4"
        cx="112.44791"
        cy="23.8125"
-       r="0.97590113" />
+       r="0.97590113"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_dc.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
     <circle
        style="opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.661458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="path4458-4-5-6-7-8"
        cx="82.020836"
        cy="113.77084"
-       r="0.97590113" />
+       r="0.97590113"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_ac.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
     <circle
        style="opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.661458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="path4458-4-5-6-7-9"
        cx="117.73959"
        cy="113.77084"
-       r="0.97590113" />
+       r="0.97590113"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_ac.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
     <circle
        style="opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.661458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="path4458-4-5-6-7-1"
        cx="154.78125"
        cy="113.77084"
-       r="0.97590113" />
+       r="0.97590113"
+       inkscape:export-filename="C:\Users\Fukuoka\Desktop\pochiMasahiro.github.io\assets\opamp\inverted_ex_ac.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text25530"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:'BIZ UDPGothic';font-style:normal;font-weight:normal;font-size:14.66666667px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'BIZ UDPGothic, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;white-space:pre;shape-inside:url(#rect25532)"><tspan
+         sodipodi:role="line"
+         id="tspan25534"></tspan></text>
   </g>
 </svg>
