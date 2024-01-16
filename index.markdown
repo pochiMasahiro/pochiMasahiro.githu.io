@@ -20,4 +20,6 @@ title: Home
 
 ## Publication
 
-1. Masahiro Fukuoka, Shigeyoshi GOKA, Masatoshi Kajita and Yuichiro Yano, "Light shift of Ramsey-coherent population trapping resonance using drive current modulation," Japanese Journal of Applied Physics, [DOI:10.35848/1347-4065/ad0d72](https://doi.org/DOI:10.35848/1347-4065/ad0d72). 
+1. Masahiro Fukuoka, Shigeyoshi Goka, "Simultaneous observation of semi-continuous and Ramsey-coherent population trapping resonances using the Ramsey pulse sequence with drive current modulation," Japanese Journal of Allied Physics,  Vol. 63, No. 1, Jan. 2024. ([DOI:10.35848/1347-4065/ad160a](https://doi.org/10.35848/1347-4065/ad160a))
+
+2. Masahiro Fukuoka, Shigeyoshi Goka, Masatoshi Kajita and Yuichiro Yano, "Light shift of Ramsey-coherent population trapping resonance using drive current modulation," Japanese Journal of Applied Physics, Vol. 62, No. 12, Dec. 2024. ([DOI:10.35848/1347-4065/ad0d72](https://doi.org/DOI:10.35848/1347-4065/ad0d72))
