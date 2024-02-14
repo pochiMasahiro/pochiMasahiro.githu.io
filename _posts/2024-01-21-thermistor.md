@@ -107,12 +107,12 @@ $$
 $$
 \begin{align*}
 T  & = \frac{1}{\frac{1}{273.15+25}+\frac{1}{4250}\ln\left(\frac{89\times 10^3}{100\times 10^3}\right)} \\
- & = \frac{1}{\frac{1}{298.15}+\frac{1}{4250}\ln 0.89} \\
- & = \frac{1}{3.35\times 10-{-3} + 2.353\times 10^{-4}\ln 0.89} \\
+ & = \frac{1}{\frac{1}{298.15}+\frac{1}{4250}\ln \left(0.89\right)} \\
+ & = \frac{1}{3.35\times 10-{-3} + 2.353\times 10^{-4}\ln \left(0.89\right)} \\
  & = \frac{1}{3.35\times 10-{-3} + 2.353\times 10^{-4} \times \left(-0.117\right)} \\
  & = \frac{1}{3.35\times 10-{-3} - 2.7420\times 10^{-5}} \\
  & = \frac{1}{3.3323\times 10-{-3}} \\
- & = 300.97
+ & = 300.97 \\
 \end{align*}
 $$
 
