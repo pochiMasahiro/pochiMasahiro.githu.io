@@ -62,7 +62,7 @@ Software Development Kit > nuclei > skd-nuclei_SDK からお好きなバージ�
 
 Project Exampleが必ず必要みたいなので、Simple Helloworld Demoが一番シンプルな感じでいいと思います。
 
-## HALのドキュメントが無い!!
+## HALのドキュメントが無い
 
 HALのドキュメントが見つけられていません。ボードのドキュメントもありません。
 
@@ -74,7 +74,7 @@ HALのドキュメントが見つけられていません。ボードのドキ�
 
 適当にビルドしてHexファイルできていたら多分大丈夫です。
 
-```
+```main.c
 
 #include "nuclei_sdk_soc.h"
 #include "gd32vf103c_longan_nano.h"
